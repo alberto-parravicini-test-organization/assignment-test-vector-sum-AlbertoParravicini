@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/alberto-parravicini-test-organization/assignment-test-vector-sum-AlbertoParravicini)](https://repl.it/github/alberto-parravicini-test-organization/assignment-test-vector-sum-AlbertoParravicini)
+
 # README
 
 L'obiettivo è calcolare la somma di un vettore dato in input
